@@ -6,3 +6,5 @@ nav a { margin-right: 1rem; }
 .note { background: #fff7ed; border-left: 4px solid #c2410c; padding: 0.75rem 1rem; }
 .card { margin: 1.5rem 0; }
 dt { font-weight: bold; }
+table { border-collapse: collapse; width: 100%; margin: 1rem 0 1.5rem; font-size: 0.95rem; }
+th, td { border-bottom: 1px solid #d6d3d1; text-align: left; vertical-align: top; padding: 0.45rem 0.55rem; }
